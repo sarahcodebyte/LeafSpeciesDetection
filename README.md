@@ -6,8 +6,8 @@ This ML model is made by the Decision Tree algorithm with the accuracy of 96%
 
 Libraries used:
 1.DecisionTreeClassifier
-2.load_iris
+ 2.load_iris
 
 New things I learnt:
 1.Decision Tree algorithm
-2.max_depth value
+ 2.max_depth value
